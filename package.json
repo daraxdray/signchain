@@ -1,0 +1,20 @@
+{
+  "name": "prac_proj",
+  "version": "1.0.0",
+  "start": "npm server.js",
+  "config":{"test":9000},
+  "description": "This project enables my practise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "practise"
+  ],
+  "author": "damiloa",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
